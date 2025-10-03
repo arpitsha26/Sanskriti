@@ -20,4 +20,8 @@ postrouter.post("/:postId/comment", isAuth, addComment);
 postrouter.delete("/:postId/comment/:commentId", isAuth, deleteComment);
 
 
+
+
 export default postrouter;
+
+//fhedvkjsbcjlmlkasmfkjnenjgdfk
